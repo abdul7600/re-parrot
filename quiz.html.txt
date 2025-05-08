@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz - Re-Parrot</title>
+</head>
+<body>
+  <h1>Quiz - Test Your English Skills</h1>
+  <p>Here you can find quizzes to test your English knowledge.</p>
+  <a href="index.html">Back to Home</a>
+</body>
+</html>
+

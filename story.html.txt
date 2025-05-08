@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Story - Re-Parrot</title>
+</head>
+<body>
+  <h1>Story - Learn English with Stories</h1>
+  <p>Welcome to the story page! Here you will find stories to help you learn English.</p>
+  <a href="index.html">Back to Home</a>
+</body>
+</html>
