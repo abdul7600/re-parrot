@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Re-Parrot Saytı</title>
+</head>
+<body>
+  <h1>Salam! Bu mənim saytım 😊</h1>
+  <p><a href="story.html">📖 Story səhifəsinə keç</a></p>
+  <p><a href="quiz.html">🧠 Quiz səhifəsinə keç</a></p>
+</body>
+</html>
+
